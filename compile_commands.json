@@ -1,0 +1,34 @@
+[
+  {
+    "arguments": [
+      "/usr/lib64/ccache/gcc",
+      "-Wall",
+      "-Wextra",
+      "-g",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "src/audio_engine.o",
+      "src/audio_engine.c"
+    ],
+    "directory": "/home/duncan/Documents/typeless-c",
+    "file": "/home/duncan/Documents/typeless-c/src/audio_engine.c",
+    "output": "/home/duncan/Documents/typeless-c/src/audio_engine.o"
+  },
+  {
+    "arguments": [
+      "/usr/lib64/ccache/gcc",
+      "-Wall",
+      "-Wextra",
+      "-g",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "src/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/duncan/Documents/typeless-c",
+    "file": "/home/duncan/Documents/typeless-c/src/main.c",
+    "output": "/home/duncan/Documents/typeless-c/src/main.o"
+  }
+]
